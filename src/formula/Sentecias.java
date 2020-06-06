@@ -13,6 +13,7 @@ public class Sentecias {
 
     //metodo para resolver de forma logica el
     //problema de las cifras significativas
+    //realizado por Charlie
     public int formula(String numero) {
         char[] vector = new char[numero.length()];
         int c = 0;
